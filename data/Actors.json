@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"battlerName":"red","characterIndex":0,"characterName":"FRLG Peds1","classId":5,"equips":[0,0,2,0,0],"faceIndex":0,"faceName":"PL Faces 01","traits":[],"initialLevel":5,"maxLevel":99,"name":"Red","nickname":"","note":"<setup action>\nzoom: 200%\n</setup action>","profile":""},
+{"id":2,"battlerName":"pichu1","characterIndex":4,"characterName":"HGSS Pokes 044","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"PL Faces 14","traits":[],"initialLevel":5,"maxLevel":99,"name":"Pichu","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Actor3_8","characterIndex":4,"characterName":"HGSS Pokes 001","classId":3,"equips":[3,0,2,3,4],"faceIndex":2,"faceName":"RBYG Faces 01","traits":[],"initialLevel":1,"maxLevel":99,"name":"Venusaur","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Actor2_7","characterIndex":4,"characterName":"HGSS Pokes 002","classId":4,"equips":[4,0,2,3,4],"faceIndex":5,"faceName":"RBYG Faces 01","traits":[],"initialLevel":36,"maxLevel":99,"name":"Charizard","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":2,"characterName":"HGSS Pokes 003","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"RBYG Faces 02","traits":[],"initialLevel":1,"maxLevel":99,"name":"Blastoise","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"HGSS Pokes 037","classId":1,"equips":[0,0,0,0,0],"faceIndex":7,"faceName":"RBYG Faces 18","traits":[],"initialLevel":1,"maxLevel":99,"name":"Snorlax","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"HGSS Pokes 034","classId":1,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"RBYG Faces 17","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lapras","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"FRLG Peds6","classId":1,"equips":[0,0,0,0,0],"faceIndex":6,"faceName":"People1","traits":[],"initialLevel":1,"maxLevel":99,"name":"NPC","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"","characterIndex":0,"characterName":"$truck","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Truck","nickname":"","note":"","profile":""},
+{"id":10,"battlerName":"Actor2_7","characterIndex":0,"characterName":"HGSS Pokes 002","classId":6,"equips":[4,0,2,3,4],"faceIndex":3,"faceName":"RBYG Faces 01","traits":[],"initialLevel":5,"maxLevel":99,"name":"Charmander","nickname":"","note":"","profile":""}
+]
