@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"battlerName":"red","characterIndex":0,"characterName":"FRLG Peds1","classId":5,"equips":[0,0,2,0,0],"faceIndex":0,"faceName":"PL Faces 01","traits":[],"initialLevel":5,"maxLevel":99,"name":"Red","nickname":"","note":"<setup action>\nzoom: 200%\n</setup action>","profile":""},
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"FRLG Peds1","classId":5,"equips":[0,0,2,0,0],"faceIndex":0,"faceName":"PL Faces 01","traits":[],"initialLevel":5,"maxLevel":99,"name":"Ethan","nickname":"","note":"<setup action>\nzoom: 200%\n</setup action>","profile":""},
 {"id":2,"battlerName":"pichu1","characterIndex":4,"characterName":"HGSS Pokes 044","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"PL Faces 14","traits":[],"initialLevel":5,"maxLevel":99,"name":"Pichu","nickname":"","note":"","profile":""},
 {"id":3,"battlerName":"Actor3_8","characterIndex":4,"characterName":"HGSS Pokes 001","classId":3,"equips":[3,0,2,3,4],"faceIndex":2,"faceName":"RBYG Faces 01","traits":[],"initialLevel":1,"maxLevel":99,"name":"Venusaur","nickname":"","note":"","profile":""},
 {"id":4,"battlerName":"Actor2_7","characterIndex":4,"characterName":"HGSS Pokes 002","classId":4,"equips":[4,0,2,3,4],"faceIndex":5,"faceName":"RBYG Faces 01","traits":[],"initialLevel":36,"maxLevel":99,"name":"Charizard","nickname":"","note":"","profile":""},

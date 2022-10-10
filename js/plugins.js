@@ -11,5 +11,6 @@ var $plugins =
 {"name":"MBS_MapZoom","status":true,"description":"Makes it possible to zoom in and out the game map\n\n<MBS MapZoom>","parameters":{"Reset on map change":"true","Default zoom":"1.0"}},
 {"name":"GALV_MessageSoundEffects","status":true,"description":"Play sound effects when during Show Text event commands.","parameters":{"Delay Time":"10","Default Talk SE":"","Default Confirm SE":"Pokemon (A Button) - Sound Effect (HD),80,100","-----------":"","Quick SE 1":"","Quick SE 2":"","Quick SE 3":"","Quick SE 4":""}},
 {"name":"Smart Path (MV)","status":true,"description":"Allows events or players to do smart Pathfinding","parameters":{}},
-{"name":"Save Event Position (MV)","status":true,"description":"Allows you to save an event's position and direction","parameters":{}}
+{"name":"Save Event Position (MV)","status":true,"description":"Allows you to save an event's position and direction","parameters":{}},
+{"name":"FELSKI_AUTOSAVE","status":true,"description":"v1.0.1 This plugin enables autosaving in your game. For RPG Maker MV 1.6.1.","parameters":{"Save Settings":"","Auto Save Slots":"2","Save After Map Change":"true","Save On Menu Exit":"true","Enable Auto Saving":"true","Save Texts":"","Auto Save Text":"Autosave","Save After Map Change Text":"Entering Area","Save On Menu Exit Text":"Closing Menu","Save Standard Text":"Normal Save"}}
 ];
