@@ -2237,7 +2237,8 @@ BattleManager.replayBgmAndBgs = function() {
 };
 
 BattleManager.makeEscapeRatio = function() {
-    this._escapeRatio = 0.5 * $gameParty.agility() / $gameTroop.agility();
+	this._escapeRatio = 1;
+    //this._escapeRatio = 0.5 * $gameParty.agility() / $gameTroop.agility();
 };
 
 BattleManager.update = function() {
